@@ -1,0 +1,5 @@
+package spring.constants.sql;
+
+public class AdminUserSQL {
+
+}

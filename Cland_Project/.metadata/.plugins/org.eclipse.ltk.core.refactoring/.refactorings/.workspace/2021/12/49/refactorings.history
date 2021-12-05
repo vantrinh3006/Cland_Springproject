@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Copy 0 elements to &apos;inc&apos;&#x0D;&#x0A;- Destination element: &apos;inc&apos;" description="Copy compilation units" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1638584713445" target="/AnewsProject/src/main/webapp/WEB-INF/views/inc" units="0" version="1.0"/>&#x0A;<refactoring comment="Rename resource &apos;AnewsProject&apos; to &apos;Cland&apos;" description="Rename resource &apos;AnewsProject&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/AnewsProject" name="Cland" stamp="1638625006213" updateReferences="true"/>
+</session>

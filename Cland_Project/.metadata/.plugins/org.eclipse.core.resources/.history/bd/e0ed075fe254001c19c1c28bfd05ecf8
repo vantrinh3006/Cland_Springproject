@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+	<definition name="template.cland" template="/WEB-INF/views/inc/templates/templatePublic.jsp">
+		<put-attribute name="header"
+			value="/WEB-INF/views/inc/cland/header.jsp" />
+		<put-attribute name="sidetbar"
+			value="/WEB-INF/views/inc/cland/header.jsp" />
+		<put-attribute name="body" value="" />
+		<put-attribute name="footer"
+			value="/WEB-INF/views/components/anews/footer.jsp" />
+	</definition>
+
+	<definition name="anews.index" extends="template.anews">
+		<put-attribute name="body"
+			value="/WEB-INF/views/views/anews/index.jsp" />
+	</definition>
+
+	<definition name="anews.cat" extends="template.anews">
+		<put-attribute name="body"
+			value="/WEB-INF/views/views/anews/cat.jsp" />
+	</definition>
+
+	<definition name="anews.detail" extends="template.anews">
+		<put-attribute name="body"
+			value="/WEB-INF/views/views/anews/detail.jsp" />
+	</definition>
+
+	<definition name="anews.add" extends="template.anews">
+		<put-attribute name="body"
+			value="/WEB-INF/views/views/anews/add.jsp" />
+	</definition>
+</tiles-definitions>

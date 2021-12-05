@@ -1,0 +1,40 @@
+package spring.daos;
+
+import java.util.List;
+
+import spring.models.Land;
+
+
+public class LandDao<T> extends AbstractDao<Land>{
+
+	@Override
+	public List<T> selectList() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public T selectById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void delete(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int update(T t) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void save(T t) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

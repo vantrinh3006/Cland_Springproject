@@ -1,0 +1,39 @@
+package spring.daos;
+
+import java.util.List;
+
+import spring.models.Category;
+
+public class CatDao extends AbstractDao<Category>{
+
+	@Override
+	public List<Category> selectList() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Category selectById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void delete(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int update(Category t) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void save(Category t) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

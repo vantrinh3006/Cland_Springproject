@@ -1,0 +1,7 @@
+package spring.daos;
+
+import spring.models.Category;
+
+public class CatDao extends AbstractDao<Category>{
+
+}

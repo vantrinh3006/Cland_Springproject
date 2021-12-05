@@ -1,0 +1,6 @@
+package spring.constants.sql;
+
+public class AdminUserSQL {
+
+	public static final	String FIND_ALL_SQL = "";
+}

@@ -1,0 +1,10 @@
+package spring.daos;
+
+import java.util.List;
+
+public abstract class AbstractDao<T> {	// định nghĩa các class trừu tượng
+	
+	public abstract List<T> selectList();
+	
+
+}

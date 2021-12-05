@@ -1,0 +1,5 @@
+package spring.constants;
+
+public class GlobalsConstants {
+
+}

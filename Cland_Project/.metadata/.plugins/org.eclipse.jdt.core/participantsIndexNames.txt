@@ -1,0 +1,73 @@
+INDEX VERSION 1.131
+E:\LAPTRINHJAVA\springProject\homeWork\HWD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\272151464.index
+\springd1\src\main\java
+E:\LAPTRINHJAVA\springProject\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2974277794.index
+\springHW\src\main\java
+C:\Users\OS\Downloads\Anews_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1496923539.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2237043348.index
+\springHW\src\main\java
+C:\Users\OS\Downloads\Anews_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1580878598.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\springD1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\719115757.index
+\springd1\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1766231073.index
+\AnewsProject\src\main\java
+C:\Users\OS\Downloads\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1761942071.index
+\springHW\src\main\java
+C:\Users\OS\Downloads\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2237043348.index
+\springHW\src\main\java
+C:\Users\OS\Downloads\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4064497999.index
+\springHW\src\main\java
+C:\Users\OS\Downloads\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2889117700.index
+\springHW\src\main\java
+C:\Users\OS\Downloads\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2974277794.index
+\springHW\src\main\java
+C:\Users\OS\Downloads\Anews_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2278044127.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\homeWork\HWD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\719115757.index
+\springd1\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2821008456.index
+\Cland\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3358153023.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3512793166.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2889117700.index
+\springHW\src\main\java
+E:\LAPTRINHJAVA\springProject\D1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\272151464.index
+\springd1\src\main\resources
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3406130007.index
+\Cland\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1921860519.index
+\Cland\src\main\java
+E:\LAPTRINHJAVA\springProject\D1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\719115757.index
+\springd1\src\main\java
+C:\Users\OS\Downloads\Anews_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3090601369.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2959167510.index
+\Cland\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\920126438.index
+\Cland\src\main\java
+E:\LAPTRINHJAVA\springProject\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1761942071.index
+\springHW\src\main\java
+E:\LAPTRINHJAVA\springProject\standar - Copy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4064497999.index
+\springHW\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2308925426.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\284411387.index
+\Cland\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2886231908.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1460574681.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2189968584.index
+\AnewsProject\src\main\java
+C:\Users\OS\Downloads\Anews_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3122786107.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2422577856.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\Cland_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3052575318.index
+\AnewsProject\src\main\java
+E:\LAPTRINHJAVA\springProject\Anews_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1496923539.index
+\AnewsProject\src\main\java

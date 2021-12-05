@@ -1,0 +1,8 @@
+package spring.daos;
+
+import java.util.List;
+
+
+public class LandDao<T> extends AbstractDao<Land>{
+
+}

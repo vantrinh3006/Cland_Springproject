@@ -1,0 +1,33 @@
+package spring.configs;
+
+import javax.sql.DataSource;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.datasource.DriverManagerDataSource;
+
+import spring.constants.GlobalsConstant;
+
+@Configuration
+public class JdbcConfig {
+	
+	@Bean("dataSource") 				// IOC	đảo ngược chiều điều khiển, giúp tạo da những object dataSource
+	public DataSource dataSource() {
+		DriverManagerDataSource dataSource = new DriverManagerDataSource();
+		dataSource.setDriverClassName(GlobalsConstant.DRIVER_NAME);
+		dataSource.setUrl(GlobalsConstants.URL);
+		dataSource.setUsername(GlobalsConstants222.USERNAME);
+		dataSource.setPassword(GlobalsConstants222.PASSWORD);
+		return dataSource;
+	}
+	
+	@Bean("jdbcTemplate")
+	public JdbcTemplate jdbcTemplate() {
+		JdbcTemplate jdbcTemplate = new JdbcTemplate();
+		jdbcTemplate.setDataSource(dataSource()); //DI tiêm chích, móc nối những object lại vs nhau , 
+														// set DataSource giá trị dataSource được gọi ở dòng 15
+		return jdbcTemplate;
+	}
+	
+}

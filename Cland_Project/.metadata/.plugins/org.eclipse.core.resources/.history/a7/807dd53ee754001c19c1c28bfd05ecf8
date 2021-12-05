@@ -1,0 +1,152 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+
+
+<div class="clearfix logo floatleft">
+	<a href="index.html"><h1>
+			<span>C</span>Land
+		</h1></a>
+</div>
+<div class="clearfix search floatright">
+	<form>
+		<input type="text" placeholder="Search" /> <input type="submit" />
+	</form>
+</div>
+</div>
+<div class="header_bottom">
+	<nav>
+		<ul id="nav">
+			<li><a href="index.html">Trang chủ</a></li>
+			<li id="dropdown"><a href="cat.html">Bất động sản</a>
+				<ul>
+					<li><a href="cat.html">Danh mục 1</a></li>
+					<li><a href="cat.html">Danh mục 2</a></li>
+					<li><a href="cat.html">Danh mục 3</a></li>
+					<li><a href="cat.html">Danh mục 4</a></li>
+				</ul></li>
+			<li><a href="single.html">Giới thiệu</a></li>
+			<li><a href="contact.html">Liên hệ</a></li>
+		</ul>
+	</nav>
+</div>
+</div>
+</section>
+
+<section id="content_area">
+	<div class="clearfix wrapper main_content_area">
+
+		<div class="clearfix main_content floatleft">
+
+
+			<div class="clearfix content">
+				<div class="content_title">
+					<h2>Our Works</h2>
+				</div>
+
+				<div class="clearfix single_work_container">
+					<div class="clearfix single_work">
+						<img class="img_top" src="images/work1.png" alt="" /> <img
+							class="img_bottom" src="images/work_bg2.png" alt="" />
+						<h2>Lorem IpsumDolor Sit Amet</h2>
+						<a href=""><p class="caption">Aenean sollicitudin, lorem
+								quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
+								sem nibh id elit.</p></a>
+					</div>
+					<div class="clearfix single_work">
+						<img src="images/work1.png" alt="" />
+						<h2>Lorem IpsumDolor Sit Amet</h2>
+						<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit
+							consequat ipsum, nec sagittis sem nibh id elit.</p>
+					</div>
+					<div class="clearfix single_work">
+						<img src="images/work1.png" alt="" />
+						<h2>Lorem IpsumDolor Sit Amet</h2>
+						<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit
+							consequat ipsum, nec sagittis sem nibh id elit.</p>
+					</div>
+					<div class="clearfix single_work">
+						<img src="images/work1.png" alt="" />
+						<h2>Lorem IpsumDolor Sit Amet</h2>
+						<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit
+							consequat ipsum, nec sagittis sem nibh id elit.</p>
+					</div>
+					<div class="clearfix single_work">
+						<img src="images/work1.png" alt="" />
+						<h2>Lorem IpsumDolor Sit Amet</h2>
+						<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit
+							consequat ipsum, nec sagittis sem nibh id elit.</p>
+					</div>
+					<div class="clearfix single_work">
+						<img src="images/work1.png" alt="" />
+						<h2>Lorem IpsumDolor Sit Amet</h2>
+						<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit
+							consequat ipsum, nec sagittis sem nibh id elit.</p>
+					</div>
+					<div class="clearfix single_work">
+						<img src="images/work1.png" alt="" />
+						<h2>Lorem IpsumDolor Sit Amet</h2>
+						<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit
+							consequat ipsum, nec sagittis sem nibh id elit.</p>
+					</div>
+					<div class="clearfix single_work">
+						<img src="images/work1.png" alt="" />
+						<h2>Lorem IpsumDolor Sit Amet</h2>
+						<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit
+							consequat ipsum, nec sagittis sem nibh id elit.</p>
+					</div>
+
+
+					<div class="clearfix work_pagination">
+						<nav>
+							<a class="newer floatleft" href=""> < -- Trang trước</a> <a
+								class="older floatright" href="">Trang kế -- ></a>
+						</nav>
+					</div>
+
+				</div>
+			</div>
+
+		</div>
+		<div class="clearfix sidebar_container floatright">
+			<div class="clearfix sidebar">
+				<div class="clearfix single_sidebar category_items">
+					<h2>Danh mục bất động sản</h2>
+					<ul>
+						<li class="cat-item"><a href="">Category Name</a>(12)</li>
+						<li class="cat-item"><a href="">Category Name </a>(12)</li>
+						<li class="cat-item"><a href="">Category Name</a>(12)</li>
+						<li class="cat-item"><a href="">Category Name </a>(12)</li>
+						<li class="cat-item"><a href="">Category Name </a>(12)</li>
+					</ul>
+				</div>
+
+				<div class="clearfix single_sidebar">
+					<div class="popular_post">
+						<div class="sidebar_title">
+							<h2>Xem nhiều</h2>
+						</div>
+						<ul>
+							<li><a href="">Duis sed odio sit amet nibh vulputate
+									cursus a sit amet mauris. </a></li>
+							<li><a href="">Duis sed odio sit amet nibh vulputate
+									cursus a sit amet mauris. </a></li>
+							<li><a href="">Duis sed odio sit amet nibh vulputate
+									cursus a sit amet mauris. </a></li>
+							<li><a href="">Duis sed odio sit amet nibh vulputate
+									cursus a sit amet mauris. </a></li>
+							<li><a href="">Duis sed odio sit amet nibh vulputate
+									cursus a sit amet mauris. </a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="clearfix single_sidebar">
+					<h2>Danh mục hot</h2>
+					<ul>
+						<li><a href="">Category Name <span>(12)</span></a></li>
+						<li><a href="">Category Name <span>(12)</span></a></li>
+						<li><a href="">Category Name <span>(12)</span></a></li>
+						<li><a href="">Category Name <span>(12)</span></a></li>
+					</ul>
+				</div>
+			</div>

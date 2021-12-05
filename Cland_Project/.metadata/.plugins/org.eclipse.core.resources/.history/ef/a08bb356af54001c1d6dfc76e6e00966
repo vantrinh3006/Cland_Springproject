@@ -1,0 +1,5 @@
+package spring.controller.admin;
+
+public class AdminCatController {
+
+}

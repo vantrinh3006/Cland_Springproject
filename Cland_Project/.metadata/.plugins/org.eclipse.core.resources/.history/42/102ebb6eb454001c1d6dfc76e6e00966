@@ -1,0 +1,39 @@
+package spring.daos;
+
+import java.util.List;
+
+import spring.models.User;
+
+public class UserDao extends AbstractDao<User>{
+
+	@Override
+	public List<User> selectList() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public User selectById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void delete(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int update(User t) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void save(User t) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,34 @@
+package spring.controllers.admins;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("admin")
+public class AdminClandController {
+	@GetMapping("index")
+	public String index() {
+		return "public.index";
+	}
+	
+	@GetMapping("cat")
+	public String cat() {
+		return "public.cat";
+	}
+	
+	@GetMapping("add")
+	public String detail() {
+		return "public.add";
+	}
+	
+	@GetMapping("news")
+	public String add() {
+		return "public.news";
+	}
+	
+	@GetMapping("login")
+	public String add() {
+		return "public.login";
+	}
+}

@@ -1,0 +1,7 @@
+package spring.daos;
+
+import java.util.Locale.Category;
+
+public class CatDao extends AbstractDao<Category>{
+
+}

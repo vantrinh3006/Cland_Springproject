@@ -1,0 +1,88 @@
+1638582373424	Rename type 'AppConfig'
+1638583789164	Move 'templates' to 'config'
+1638583912976	Rename type 'MvcConfig'
+1638584177439	Copy file
+1638584190211	Rename resource 'tiles-anews.xml'
+1638584395844	Delete element
+1638584454604	Copy folder
+1638584503855	Copy folder
+1638584511370	Delete element
+1638584514483	Move 'footer.jsp' to 'cland'
+1638584516336	Move 'header.jsp' to 'cland'
+1638584518357	Move 'leftbar.jsp' to 'cland'
+1638584527452	Copy files
+1638584555775	Delete element
+1638584664711	Delete elements
+1638584677353	Copy folder
+1638584737748	Copy files
+1638584747789	Delete elements
+1638584800294	Delete element
+1638584804297	Delete element
+1638584806966	Delete element
+1638584818609	Delete element
+1638584896277	Rename resource 'anews'
+1638584927734	Copy folders
+1638586178908	Copy file
+1638586190271	Copy file
+1638586523988	Delete elements
+1638586724984	Copy file
+1638586730800	Delete element
+1638586742685	Copy compilation unit
+1638586983461	Copy compilation unit
+1638587031904	Copy compilation unit
+1638587186569	Copy package
+1638587232341	Delete element
+1638587303126	Copy compilation unit
+1638587312372	Copy compilation unit
+1638587380751	Rename package 'spring.controller.admin'
+1638587386866	Rename package 'spring.controller.publics'
+1638587453494	Copy compilation unit
+1638587539429	Delete elements
+1638587567552	Delete elements
+1638587575596	Delete elements
+1638587585688	Rename package 'spring.dao'
+1638587752447	Rename type 'AbtractDao'
+1638590635276	Delete element
+1638590725322	Rename type 'GlobalsConstants'
+1638590728056	Delete element
+1638590733712	Delete element
+1638591507916	Delete elements
+1638591510458	Delete element
+1638591555360	Delete element
+1638591572662	Rename resource 'add.html'
+1638591577971	Rename resource 'cat.html'
+1638591583108	Rename resource 'index.html'
+1638591588569	Rename resource 'login.html'
+1638591593430	Rename resource 'news.html'
+1638592020969	Delete element
+1638592440984	Delete elements
+1638592452162	Rename resource 'add.html'
+1638592457874	Rename resource 'cat.html'
+1638592463570	Rename resource 'index.html'
+1638592471630	Rename resource 'login.html'
+1638592478069	Rename resource 'news.html'
+1638606901702	Rename resource 'cat.html'
+1638606908197	Rename resource 'contact.html'
+1638606913260	Rename resource 'index.html'
+1638606917952	Rename resource 'single.html'
+1638607816148	Rename resource 'leftbar.jsp'
+1638607861449	Rename resource 'site_bar.jsp'
+1638608718163	Delete elements
+1638608796925	Rename resource 'template.jsp'
+1638608857385	Rename resource 'cland.jsp'
+1638609041024	Rename resource 'template'
+1638609092071	Rename resource 'template.xml'
+1638609098666	Rename resource 'template.jsp'
+1638609774632	Copy file
+1638609782233	Rename resource 'template.jsp'
+1638609885377	Rename resource 'template_admin.xml'
+1638614271842	Rename resource 'cland'
+1638614276133	Rename resource 'cland'
+1638614283409	Rename resource 'cland'
+1638614513050	Delete elements
+1638614616283	Delete element
+1638614866446	Copy folder
+1638614870766	Delete element
+1638614873122	Delete element
+1638623953418	Delete element
+1638633924857	Delete element

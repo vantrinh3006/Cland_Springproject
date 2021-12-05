@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+	<definition name="cland.admin" template="/WEB-INF/views/inc/templates/templatePublic.jsp">
+	
+		<put-attribute name="header" value="/WEB-INF/views/inc/adminc/header.jsp" />
+			
+		<put-attribute name="sideBar" value="/WEB-INF/views/inc/admin/sideBar.jsp" />
+			
+		<put-attribute name="body" value="" />
+		
+		<put-attribute name="footer" value="/WEB-INF/views/inc/admin/footer.jsp" />
+			
+	</definition>
+
+	<definition name="admin.index" extends="cland.admin">
+		<put-attribute name="body" value="/WEB-INF/views/admin/index.jsp" />
+	</definition>
+
+	<definition name="admin.cat" extends="cland.public">
+		<put-attribute name="body" value="/WEB-INF/views/admin/cat.jsp" />
+	</definition>
+
+	<definition name="admin.add" extends="cland.public">
+		<put-attribute name="body" value="/WEB-INF/views/admin/add.jsp" />
+	</definition>
+
+	<definition name="admin.news" extends="cland.public">
+		<put-attribute name="body" value="/WEB-INF/views/admin/news.jsp" />
+	</definition>
+	
+</tiles-definitions>

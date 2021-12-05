@@ -1,0 +1,5 @@
+package spring.daos;
+
+public class LandDao<T> extends AbstractDao<T>{
+
+}
